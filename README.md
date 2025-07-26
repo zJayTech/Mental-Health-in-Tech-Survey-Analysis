@@ -64,7 +64,8 @@ ggplot(grouped_data, aes(x = gender, y = count, fill = treatment)) +
     plot.background = element_rect(fill = "white", color = NA)
   )
 ```
-###Visualization
+### Visualization
+
 ![image_alt](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/treatment-by-gender.png?raw=true)
 
 > *This chart reveals variations in mental health treatment-seeking behavior across gender identities.*
