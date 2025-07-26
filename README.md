@@ -14,9 +14,9 @@ This project explores mental health trends in the tech industry using the [OSMI 
 
 ## Visualization 1: Comparative Analysis with Grouped Bar Chart
 
-This grouped bar chart compares how likely respondents are to seek mental health treatment, segmented by **gender**:
+> *This visualization shows how respondents from the tech industry reported seeking mental health treatment, grouped by gender. It helps identify whether there's a noticeable difference in treatment-seeking behavior between genders.*
 
-### Code
+### Code:
 ```r
 # STEP 1: Load required libraries
 library(tidyverse)  # For data manipulation and plotting
@@ -24,7 +24,6 @@ library(readr)      # For reading CSV files
 library(janitor)    # For cleaning column names
 
 # STEP 2: Load the dataset (adjust path if needed)
-# Make sure 'survey.csv' is in your working directory
 survey <- read_csv("survey.csv") %>%
   clean_names()  # Converts column names to snake_case
 
@@ -67,7 +66,5 @@ ggplot(grouped_data, aes(x = gender, y = count, fill = treatment)) +
 ### Visualization
 
 ![image_alt](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/treatment-by-gender.png?raw=true)
-
-> *This chart reveals variations in mental health treatment-seeking behavior across gender identities.*
 
 ---
