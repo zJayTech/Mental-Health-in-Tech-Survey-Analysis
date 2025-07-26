@@ -16,7 +16,7 @@ This project explores mental health trends in the tech industry using the [OSMI 
 
 This grouped bar chart compares how likely respondents are to seek mental health treatment, segmented by **gender**:
 
-<img src="visualization/treatment_by_gender.png" width="700"/>
+<img src="Mental-Health-in-Tech-Survey-Analysis/blob/main/treatment_by_gender.png" width="700"/>
 
 > *This chart reveals variations in mental health treatment-seeking behavior across gender identities.*
 
