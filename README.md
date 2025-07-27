@@ -29,7 +29,7 @@ This bar chart illustrates the overall distribution of respondents by gender, pr
 ![Gender Distribution](images/gender_distribution.png)
 *(Please replace this placeholder with your actual plot image: `gender_distribution.png`)*
 
-**Insight:** The survey primarily reflects responses from male individuals, indicating a potential bias towards male perspectives in the tech industry data.
+> **Insight:** The survey primarily reflects responses from male individuals, indicating a potential bias towards male perspectives in the tech industry data.
 
 ---
 
@@ -40,7 +40,7 @@ This visualization explores the proportion of individuals who sought mental heal
 ![Treatment by Gender](images/treatment_by_gender.png)
 *(Please replace this placeholder with your actual plot image: `treatment_by_gender.png`)*
 
-**Insight:** While males constitute the majority of respondents, a higher proportion of female respondents reported seeking mental health treatment, suggesting potential differences in help-seeking behaviors.
+> **Insight:** While males constitute the majority of respondents, a higher proportion of female respondents reported seeking mental health treatment, suggesting potential differences in help-seeking behaviors.
 
 ---
 
@@ -51,7 +51,7 @@ This chart investigates whether working for a tech company influences an individ
 ![Treatment by Tech Company](images/treatment_by_tech_company.png)
 *(Please replace this placeholder with your actual plot image: `treatment_by_tech_company.png`)*
 
-**Insight:** Individuals working in tech companies appear to seek treatment more frequently, which might be attributed to greater awareness, resources, or perhaps higher stress levels within the industry.
+> **Insight:** Individuals working in tech companies appear to seek treatment more frequently, which might be attributed to greater awareness, resources, or perhaps higher stress levels within the industry.
 
 ---
 
@@ -62,7 +62,7 @@ This stacked bar chart shows the proportion of respondents who sought treatment,
 ![Benefits vs. Treatment](images/benefits_vs_treatment.png)
 *(Please replace this placeholder with your actual plot image: `benefits_vs_treatment.png`)*
 
-**Insight:** Companies offering comprehensive mental health benefits show a higher proportion of employees seeking treatment, indicating that accessible benefits play a crucial role in encouraging help-seeking behavior.
+> **Insight:** Companies offering comprehensive mental health benefits show a higher proportion of employees seeking treatment, indicating that accessible benefits play a crucial role in encouraging help-seeking behavior.
 
 ---
 
@@ -73,7 +73,7 @@ A histogram showing the age distribution of the survey respondents. This helps i
 ![Age Distribution](images/age_distribution.png)
 *(Please replace this placeholder with your actual plot image: `age_distribution.png`)*
 
-**Insight:** The majority of respondents fall within the 25-40 age bracket, suggesting that mental health concerns in this survey are predominantly observed among younger to middle-aged professionals.
+> **Insight:** The majority of respondents fall within the 25-40 age bracket, suggesting that mental health concerns in this survey are predominantly observed among younger to middle-aged professionals.
 
 ---
 
@@ -84,7 +84,7 @@ This pie chart visualizes the proportion of self-employed individuals versus tho
 ![Self-Employed Distribution](images/self_employed_distribution.png)
 *(Please replace this placeholder with your actual plot image: `self_employed_distribution.png`)*
 
-**Insight:** The vast majority of respondents are not self-employed, indicating that the survey primarily captures experiences from individuals working for established companies.
+> **Insight:** The vast majority of respondents are not self-employed, indicating that the survey primarily captures experiences from individuals working for established companies.
 
 ---
 
@@ -95,7 +95,7 @@ This pie chart illustrates the proportion of respondents who have a family histo
 ![Family History Distribution](images/family_history_distribution.png)
 *(Please replace this placeholder with your actual plot image: `family_history_distribution.png`)*
 
-**Insight:** A significant portion of respondents report a family history of mental illness, which could be a contributing factor to their own mental health experiences and awareness.
+> **Insight:** A significant portion of respondents report a family history of mental illness, which could be a contributing factor to their own mental health experiences and awareness.
 
 ---
 
@@ -106,7 +106,7 @@ A scatter plot that explores the relationship between age and how often mental h
 ![Age vs. Work Interference](images/age_vs_work_interfere.png)
 *(Please replace this placeholder with your actual plot image: `age_vs_work_interfere.png`)*
 
-**Insight:** There isn't a strong linear relationship between age and work interference. However, across various interference levels, individuals who sought treatment are present in different age groups, suggesting that work interference prompts help-seeking behavior regardless of age.
+> **Insight:** There isn't a strong linear relationship between age and work interference. However, across various interference levels, individuals who sought treatment are present in different age groups, suggesting that work interference prompts help-seeking behavior regardless of age.
 
 ---
 
@@ -117,7 +117,7 @@ This line chart shows the volume of survey responses collected over time, indica
 ![Responses Over Time](images/responses_over_time.png)
 *(Please replace this placeholder with your actual plot image: `responses_over_time.png`)*
 
-**Insight:** The survey collected responses primarily during a specific period in late 2014 to early 2015, with a peak in late August/early September 2014, reflecting focused data collection over a limited timeframe.
+> **Insight:** The survey collected responses primarily during a specific period in late 2014 to early 2015, with a peak in late August/early September 2014, reflecting focused data collection over a limited timeframe.
 
 ---
 
@@ -128,7 +128,7 @@ This line chart tracks the proportion of respondents seeking mental health treat
 ![Treatment Trends Over Time](images/treatment_trends_over_time.png)
 *(Please replace this placeholder with your actual plot image: `treatment_trends_over_time.png`)*
 
-**Insight:** The proportion of individuals seeking treatment remained relatively stable throughout the survey period, or showed slight fluctuations, indicating consistent reporting patterns regarding help-seeking behaviors.
+> **Insight:** The proportion of individuals seeking treatment remained relatively stable throughout the survey period, or showed slight fluctuations, indicating consistent reporting patterns regarding help-seeking behaviors.
 
 ---
 
