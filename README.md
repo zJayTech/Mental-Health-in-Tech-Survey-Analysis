@@ -140,30 +140,6 @@ This line chart tracks the proportion of respondents seeking mental health treat
 * **Age Distribution:** The tech workforce surveyed is predominantly young to middle-aged.
 * **Temporal Consistency:** The patterns of responses and treatment-seeking behavior remained relatively consistent over the survey's collection period.
 
-## How to Run the Code
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/YourRepoName.git](https://github.com/YourGitHubUsername/YourRepoName.git)
-    cd YourRepoName
-    ```
-2.  **Download the Dataset:** Download `survey.csv` from its Kaggle source and place it in the root directory of this repository.
-3.  **Open in RStudio:** Open the `.Rproj` file (if you create one) or the R script file in RStudio.
-4.  **Install Packages:** Run the following commands in your R console if you haven't installed these packages before:
-    ```R
-    install.packages("ggplot2")
-    install.packages("dplyr")
-    install.packages("forcats")
-    ```
-5.  **Load Libraries:** At the beginning of your R script, ensure you have these lines:
-    ```R
-    library(ggplot2)
-    library(dplyr)
-    library(forcats)
-    ```
-6.  **Run the Script:** Execute the R script (e.g., `source("your_analysis_script.R")`) to perform the data cleaning and generate the visualizations.
-7.  **Save Plots:** You will need to manually save the generated plots from RStudio's Plots pane (e.g., using 'Export' -> 'Save as Image...') and place them into an `images/` directory within your repository, updating the `README.md` file with the correct image paths.
-
 ## Contact
 
 Feel free to reach out if you have any questions or feedback!
