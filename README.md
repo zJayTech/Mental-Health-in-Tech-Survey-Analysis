@@ -27,7 +27,6 @@ This section showcases the key visualizations generated during the analysis, alo
 This bar chart illustrates the overall distribution of respondents by gender, providing a foundational understanding of the survey's demographic makeup.
 
 ![Gender Distribution](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Distribution-of-Gender.png?raw=true)
-*(Please replace this placeholder with your actual plot image: `gender_distribution.png`)*
 
 > **Insight:** The survey primarily reflects responses from male individuals, indicating a potential bias towards male perspectives in the tech industry data.
 
@@ -37,8 +36,7 @@ This bar chart illustrates the overall distribution of respondents by gender, pr
 
 This visualization explores the proportion of individuals who sought mental health treatment, broken down by gender.
 
-![Treatment by Gender](images/treatment_by_gender.png)
-*(Please replace this placeholder with your actual plot image: `treatment_by_gender.png`)*
+![Treatment by Gender](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Health-Treatment-by-Gender.png?raw=true)
 
 > **Insight:** While males constitute the majority of respondents, a higher proportion of female respondents reported seeking mental health treatment, suggesting potential differences in help-seeking behaviors.
 
@@ -48,8 +46,7 @@ This visualization explores the proportion of individuals who sought mental heal
 
 This chart investigates whether working for a tech company influences an individual's likelihood of seeking mental health treatment.
 
-![Treatment by Tech Company](images/treatment_by_tech_company.png)
-*(Please replace this placeholder with your actual plot image: `treatment_by_tech_company.png`)*
+![Treatment by Tech Company](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Mental-Health-Treatment-by_Tech-Company-Affiliation.png?raw=true)
 
 > **Insight:** Individuals working in tech companies appear to seek treatment more frequently, which might be attributed to greater awareness, resources, or perhaps higher stress levels within the industry.
 
@@ -59,8 +56,7 @@ This chart investigates whether working for a tech company influences an individ
 
 This stacked bar chart shows the proportion of respondents who sought treatment, categorized by the types of mental health benefits their company provides.
 
-![Benefits vs. Treatment](images/benefits_vs_treatment.png)
-*(Please replace this placeholder with your actual plot image: `benefits_vs_treatment.png`)*
+![Benefits vs. Treatment](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Proportion-of-Treatment-by-Company-Benefits.png?raw=true)
 
 > **Insight:** Companies offering comprehensive mental health benefits show a higher proportion of employees seeking treatment, indicating that accessible benefits play a crucial role in encouraging help-seeking behavior.
 
@@ -70,8 +66,7 @@ This stacked bar chart shows the proportion of respondents who sought treatment,
 
 A histogram showing the age distribution of the survey respondents. This helps in understanding the age groups most represented in the survey.
 
-![Age Distribution](images/age_distribution.png)
-*(Please replace this placeholder with your actual plot image: `age_distribution.png`)*
+![Age Distribution](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Distribution-of-Age.png?raw=true)
 
 > **Insight:** The majority of respondents fall within the 25-40 age bracket, suggesting that mental health concerns in this survey are predominantly observed among younger to middle-aged professionals.
 
@@ -81,8 +76,7 @@ A histogram showing the age distribution of the survey respondents. This helps i
 
 This pie chart visualizes the proportion of self-employed individuals versus those employed by companies in the dataset.
 
-![Self-Employed Distribution](images/self_employed_distribution.png)
-*(Please replace this placeholder with your actual plot image: `self_employed_distribution.png`)*
+![Self-Employed Distribution](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Proportion-of-Self-Employed-Individuals.png?raw=true)
 
 > **Insight:** The vast majority of respondents are not self-employed, indicating that the survey primarily captures experiences from individuals working for established companies.
 
@@ -92,8 +86,7 @@ This pie chart visualizes the proportion of self-employed individuals versus tho
 
 This pie chart illustrates the proportion of respondents who have a family history of mental illness.
 
-![Family History Distribution](images/family_history_distribution.png)
-*(Please replace this placeholder with your actual plot image: `family_history_distribution.png`)*
+![Family History Distribution](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Family-History-of-Mental-Illness.png?raw=true)
 
 > **Insight:** A significant portion of respondents report a family history of mental illness, which could be a contributing factor to their own mental health experiences and awareness.
 
@@ -103,8 +96,7 @@ This pie chart illustrates the proportion of respondents who have a family histo
 
 A scatter plot that explores the relationship between age and how often mental health interferes with work, with points colored based on whether the individual sought treatment. Jitter has been applied to better visualize overlapping points.
 
-![Age vs. Work Interference](images/age_vs_work_interfere.png)
-*(Please replace this placeholder with your actual plot image: `age_vs_work_interfere.png`)*
+![Age vs. Work Interference](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Age-vs-Work-Interference.png?raw=true)
 
 > **Insight:** There isn't a strong linear relationship between age and work interference. However, across various interference levels, individuals who sought treatment are present in different age groups, suggesting that work interference prompts help-seeking behavior regardless of age.
 
@@ -114,8 +106,7 @@ A scatter plot that explores the relationship between age and how often mental h
 
 This line chart shows the volume of survey responses collected over time, indicating the period of peak survey activity.
 
-![Responses Over Time](images/responses_over_time.png)
-*(Please replace this placeholder with your actual plot image: `responses_over_time.png`)*
+![Responses Over Time](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Number-of-Survey-Responses-Over-Time.png?raw=true)
 
 > **Insight:** The survey collected responses primarily during a specific period in late 2014 to early 2015, with a peak in late August/early September 2014, reflecting focused data collection over a limited timeframe.
 
@@ -125,8 +116,7 @@ This line chart shows the volume of survey responses collected over time, indica
 
 This line chart tracks the proportion of respondents seeking mental health treatment over the survey period.
 
-![Treatment Trends Over Time](images/treatment_trends_over_time.png)
-*(Please replace this placeholder with your actual plot image: `treatment_trends_over_time.png`)*
+![Treatment Trends Over Time](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Treatment-Seekers-Over-Time.png?raw=true)
 
 > **Insight:** The proportion of individuals seeking treatment remained relatively stable throughout the survey period, or showed slight fluctuations, indicating consistent reporting patterns regarding help-seeking behaviors.
 
