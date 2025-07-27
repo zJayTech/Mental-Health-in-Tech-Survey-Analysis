@@ -26,7 +26,7 @@ This section showcases the key visualizations generated during the analysis, alo
 
 This bar chart illustrates the overall distribution of respondents by gender, providing a foundational understanding of the survey's demographic makeup.
 
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis/blob/main/Distribution-of-Gender.png?raw=true)
 *(Please replace this placeholder with your actual plot image: `gender_distribution.png`)*
 
 > **Insight:** The survey primarily reflects responses from male individuals, indicating a potential bias towards male perspectives in the tech industry data.
