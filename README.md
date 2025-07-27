@@ -144,4 +144,5 @@ This line chart tracks the proportion of respondents seeking mental health treat
 
 Feel free to reach out if you have any questions or feedback!
 
-* [**LinkedIn:**](https://www.linkedin.com/in/zjaytech/)
+### Zack Jones
+* [Email](zackjones.dataanalyst@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zjaytech/)
